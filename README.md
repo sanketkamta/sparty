@@ -1,1 +1,1 @@
-# sparty
+# SpartyMusic
